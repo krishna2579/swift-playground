@@ -1,6 +1,6 @@
 #!/usr/bin/swift
 
-var rows = 5
+var rows = 4
 var column = rows + (rows - 1)
 var center = column / 2
 
